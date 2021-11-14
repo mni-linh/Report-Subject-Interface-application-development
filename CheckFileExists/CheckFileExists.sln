@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckFileExists", "CheckFileExists\CheckFileExists.csproj", "{F3DE16AE-0DA4-4733-B574-DD702FF1C92C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DE16AE-0DA4-4733-B574-DD702FF1C92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DE16AE-0DA4-4733-B574-DD702FF1C92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DE16AE-0DA4-4733-B574-DD702FF1C92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DE16AE-0DA4-4733-B574-DD702FF1C92C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA35D722-1D36-481F-AB16-4CDA2E27B1C5}
+	EndGlobalSection
+EndGlobal
